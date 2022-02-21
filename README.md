@@ -23,15 +23,23 @@ Contract can be found on address: [0x4c83a3fd89dab9abc40b2fd59c32edc4fc8dac4f](h
 
 * Eth Wallet and Rinkey Ethereum which can be claimed for free.
 
-    ```
+    
     Install metamask
+    
     Create new Ethereum address
-    On the Metamask icon on the top you should be able to choose the network you want to work on. Choose the Rinkbey Network (This is the ethereum test network)
+    
+    On the Metamask icon on the top you should be able to choose the network you want to work on. 
+    Choose the Rinkbey Network (This is the ethereum test network)
+
     Now get some free test ethereum by heading over to (https://faucet.rinkeby.io/)
-    Where you will be prompted to share a social media post to claim your free ethereum, making a twitter account is the easiest and fastest method.
-    Once you make your tweet which an exmaple can be found in the link in the bottom page with the twitter icon, post your link on the search box
+
+    Where you will be prompted to share a social media post to claim your free ethereum, 
+    making a twitter account is the easiest and fastest method.
+
+    Once you make your tweet which an exmaple can be found in the link in the bottom page with the twitter icon, post your link on the search box.
+
     Some free ethereum test coins should arrive shortly!
-    ```
+    
 
 ### Run Solidity tests
 
